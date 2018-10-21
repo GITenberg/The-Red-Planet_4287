@@ -10,9 +10,10 @@ Title: The Red Planet
 
 Author: William J. Locke
 
-Posting Date: July 23, 2009 [EBook #4287]
-Release Date: July, 2003
+Release Date: July, 2003 [EBook #4287]
 First Posted: December 30, 2001
+Last Updated: September 3, 2018
+
 
 Language: English
 
@@ -1255,7 +1256,7 @@ comparatively rare man--I say it in all modesty--the comparatively rare
 man like myself in the trenches? It would be foolish waste. I assure
 you I'm putting all my talents at the disposal of the country." Seeing,
 I suppose, in my eyes, the maintained stoniness of non-conviction, he
-went on, "But, pay dear sir, be reasonable." ... Reasonable! I nearly
+went on, "But, my dear sir, be reasonable." ... Reasonable! I nearly
 choked. If I could have stood once more on my useless legs, I should
 have swung my left arm round and clouted him on the side of the head.
 Reasonable indeed! This well-fed, able-bodied, young Oxford prig to
@@ -1553,7 +1554,7 @@ noticed a little puzzled look in his eyes.
 your head?"
 
 "We had been talking nonsense," she replied, picking out a chord or
-two, without looking al him. "And I thought we ought to give all past
+two, without looking at him. "And I thought we ought to give all past
 vanities and frivolities and lunacies a decent burial."
 
 He put both hands very tenderly on her shoulders.
@@ -1720,7 +1721,7 @@ rifles, whom they had to shoot in self-defence.
 
 Meanwhile Boyce, white and haggard-eyed, had picked himself up;
 revolver in hand he stood on the stoep. His men came out, cursed him to
-his face while giving him their contemptuous reports brought the dead
+his face while giving him their contemptuous report brought the dead
 bodies of their comrades into the house and laid them out decently,
 together with the body of the white-bearded Boer. After that they
 mounted their horses without a word to him and rode off. And he let
@@ -2196,7 +2197,7 @@ meeting-ground is the absurdity of Randall joining the army."
 "She is a loyal little soul and as miserable as can be. She's
 deplorably in love with Randall. She has told me so. And because she's
 in love with a man whom she knows to be a slacker she's eaten up with
-shame. Now she won't speak to him To avoid meeting him she lives
+shame. Now she won't speak to him. To avoid meeting him she lives
 entirely at the hospital--a paying probationer."
 
 "That must be since the last Committee Meeting," I said.
@@ -2618,7 +2619,7 @@ had her discarded lover's attitude to do with me? But Boyce was Boyce,
 the man of the damnable story of Vilboek's Farm. And he, of his own
 accord, had revived in my mind that story in all its intensity. A
 chance foolish question, such as thousands of gentle, sheltered women
-have put to their suddenly, uncomprehended, suddenly deified sons and
+have put to their suddenly uncomprehended, suddenly deified sons and
 husbands, had obviously disturbed his nervous equilibrium. That little
 reflex twitch at the corner of his lips--I have seen it often in the
 old times. I should like to have had him stripped to the waist so that
@@ -3644,7 +3645,7 @@ low-down lying knavery, then I'm done. I don't know how to tackle it.
 All I can do is to get out of the knave's way. I've found Gedge to be a
 beast, and I'm very honourably in love with Gedge's daughter, and I've
 asked her to marry me. I attach some value, Major, to your opinion of
-me, and I want you, to know these two facts."
+me, and I want you to know these two facts."
 
 I again expressed my gratification at learning his honourable
 intentions towards Phyllis, and I commended his discovery of Gedge's
@@ -4192,7 +4193,7 @@ his right fist, and there was a long silence. Presently he repeated:
 We fell to discussing the whole matter over again. Why, I asked, should
 we assume that the poor child was led astray by a villain? Might there
 not have been a romantic marriage which, for some reason we could not
-guess, she desired to keep secret for a tune? Had she not been bright
+guess, she desired to keep secret for a time? Had she not been bright
 and happy from January to June? And that night of tragedy... What more
 likely than that she had gone forth to keep tryst with her husband and
 accidentally met her death? "He arrives," said I, "waits for her. She
@@ -4806,7 +4807,7 @@ the situation grew more than she could bear. She fled to Betty for
 advice. Betty promptly stepped in and whisked her off to the hospital.
 
 It was on the morning on which Randall interviewed me in the garden,
-the morning after he had broken with Gedge that Phyllis, having a
+the morning after he had broken with Gedge, that Phyllis, having a
 little off-time, went home. She found her father in the office making
 out a few bills. He thrust forward his long chin and aggressive beard
 and scowled at her.
@@ -4854,13 +4855,13 @@ touched on the matter before. She said, straining away:
 amount of give and take. I'm not the man to drive a one-sided bargain.
 I'll make you a fair offer--as between father and daughter. I'll wipe
 out all that's past. In leaving me like this, when misfortune has come
-upon me, you've been guilty of unfilial conduct--no one can deny it But
+upon me, you've been guilty of unfilial conduct--no one can deny it. But
 I'll overlook everything, forgive you fully and take you to my heart
 again and leave you free to do whatever you like without interfering
 with your opinions, if you'll promise me one thing--"
 
-"I know what you're going to say." She twisted round on him swiftly. "I
-'ll promise at once. I'll never marry Mr. Holmes. I've already told him
+"I know what you're going to say." She twisted round on him swiftly.
+"I'll promise at once. I'll never marry Mr. Holmes. I've already told him
 I won't marry him."
 
 Surprise relaxed his grip. She took swift advantage and sheered away to
@@ -5304,7 +5305,7 @@ was a member of our County Territorial Association and took over a good
 deal of special work connected with one of our battalions that was
 covering itself with glory and little mounds topped with white crosses
 at the front. If you think I lived a Tom-tabby, tea-party sort of life,
-you are quite mistaken, if the War Office could have its way, it would
+you are quite mistaken. If the War Office could have its way, it would
 have lashed me in red tape, gagged me with Regulations, and
 sealing-waxed me up in my bed-room. And there are thousands of us who
 have shaken our fists under the nose of the War Office and shouted,
@@ -5399,7 +5400,7 @@ chest, just missing his lung. He had been two months in hospital. He
 had written to her announcing his arrival. She had not met him at the
 station. He had tramped home with his kit-bag on his back--and the
 cracked head was his reception. He supposed she had had a lot of easy
-money and had given way to temptation--and
+money and had given way to temptation--and----
 
 "And what's a man to do, sir?"
 
@@ -5640,7 +5641,7 @@ CHAPTER XIII
 
 Thus over the sequestered vale of Wellingsford, far away from the sound
 of shells, even off the track of marauding Zeppelins, rode the fiery
-planet. Mars. There is not a homestead in Great Britain that in one
+planet, Mars. There is not a homestead in Great Britain that in one
 form or another has not caught a reflection of its blood-red ray. No
 matter how we may seek distraction in work or amusement, the angry glow
 is ever before our eyes, colouring our vision, colouring our thoughts,
@@ -5912,7 +5913,7 @@ Nothing remained but to telephone to the hospital and put her in Mrs.
 Marigold's charge for the night. So broken was my dear Betty, that she
 allowed herself to be carried off without a word.... Once before, years
 ago, she had behaved with the same piteous docility; and that was when,
-a short-frocked hoiden, she had fallen from an apple tree and badly
+a short-frocked maiden, she had fallen from an apple tree and badly
 hurt herself, and Marigold had carried her into the house and Mrs.
 Marigold had put her to bed....
 
@@ -6616,7 +6617,7 @@ night-clubs, a war London full and alive, not dead as in Augusts of
 far-off tradition, all ready to give him talk and gaiety and the things
 that matter to the man who escapes for a brief season from the
 never-ending hell of the battlefield; ready, too, to pour flattery into
-his ear, to touch his scars with the softest of its lingers. Yet he
+his ear, to touch his scars with the softest of its fingers. Yet he
 chose to stay, a recluse, in our dull little town, avoiding even the
 kindly folk round about, in order to devote himself to one dear but
 entirely uninteresting old woman. It is not that he despised London,
@@ -7025,7 +7026,7 @@ co-ordinate my ideas. What was one to make of a man avowedly subject to
 fits of the most despicable cowardice from the consequences of which he
 used any unscrupulous craftiness to extricate himself, and yet was
 notorious in his achievement of deeds of the most reckless courage? It
-is a problem to which I have devoted all the months occupied in waiting
+is a problem to which I have devoted all the months occupied in writing
 this book. How the dickens could I solve it at a minute's notice? The
 situation was too blatant, too raw, too near bedrock, too naked and
 unashamed, for me to take refuge in platitudinous generalities of
@@ -8684,7 +8685,7 @@ reason rang true against my exceptional knowledge of him. I had worked
 myself into so sympathetic a comprehension that I KNEW he would be
 facing something unknown and terrible in the proposed ceremony; I KNEW
 that for his own sake he would have unequivocably declined. But, ad
-najorem matris gloriam, he assented.
+majorem matris gloriam, he assented.
 
 The main question, at any rate, was settled. The hero would accept the
 honour. It was for the Committee to make the necessary arrangements. We
@@ -9662,7 +9663,9 @@ you, I wouldn't suggest it to Anthony."
 
 "That's rather mysterious." She looked at me shrewdly. "And there's
 another mysterious thing. Anthony's like a yapping sphinx over it. What
-were you two talking to Gedge about this morning?" "Nothing particular."
+were you two talking to Gedge about this morning?"
+
+"Nothing particular."
 
 "That's nonsense, Duncan. Gedge was making himself unpleasant. He never
 does anything else."
@@ -9787,7 +9790,7 @@ It was a soldierlike little speech, delivered with the man's gallant
 charm. Young Winslow gripped his arm affectionately and I heard him
 say--"You are a brute, sir, dragging me into it." The little party
 descended the steps of the Town Hall. The words of command rang out.
-The Parade stood at the salute, which Boyce acknowledged, guided by
+The Parade stood at the salute, which Boyce acknowledged. Guided by
 Winslow and his mother he reached his car, to which he was attended by
 the Mayor and Mayoress. After formal leave-taking the Boyces and
 Winslow drove off amid the plaudits of the crowd. Then Sir Anthony and
@@ -9911,7 +9914,7 @@ Anthony, that I felt almost ashamed of the success of my bombardment.
 that have to be done. You need a holiday. You've been working here at
 high pressure for nearly a couple of years. Go away. Put yourself in
 the hands of Cliffe, and go to Bournemouth, or Biarritz, or Bahia, or
-any beastly place you can fix up with him to go to. Go frankly For
+any beastly place you can fix up with him to go to. Go frankly, for
 three or four months. Go to-morrow. As soon as you're well out of the
 place, tell Edith the whole story. Then you can take counsel and
 comfort together."
@@ -10228,7 +10231,9 @@ mention," he said. "In her last letter my mother told me that the Mayor
 and Town Council were on the point of giving a civic reception to
 Colonel Boyce. Has it taken place yet?"
 
-"Yes," said I. "And did it go off all right?"
+"Yes," said I.
+
+"And did it go off all right?"
 
 In spite of wisdom learned at Balliol and shell craters, he was still
 an ingenuous youth.
@@ -11136,7 +11141,7 @@ little ailments, my little selfish love of Betty, my little humdrum
 life itself dwindled insignificant before the tragic intensity of this
 strange, curse-ridden being.
 
-And all the tune we had not spoken of Betty--except the Betty of long
+And all the time we had not spoken of Betty--except the Betty of long
 ago. It was I, finally, who gave him the lead.
 
 "And Betty?" said I.
